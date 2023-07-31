@@ -8,9 +8,6 @@ Ganache: A personal Ethereum blockchain used for testing and development.
 GitHub: The platform used for version control and repository hosting.
 
 
-## Conclusion
-This application, Fintech Finder, provides a web interface for customers to interact with various Ethereum blockchain functionalities. It integrates two Python files, fintech_finder.py and crypto_wallet.py, to automate tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via the Ganache blockchain.
-
 Here's a breakdown of the application's functionality:
 
 ## Step 1: Import Ethereum Transaction Functions
@@ -30,3 +27,6 @@ When the customer clicks the "Send Transaction" button, the application calls th
 
 The application follows coding conventions and formatting standards, utilizing concise logic and adhering to DRY principles. It is well-commented to provide clarity and understanding to other developers.
 
+
+## Conclusion
+This application, Fintech Finder, provides a web interface for customers to interact with various Ethereum blockchain functionalities. It integrates two Python files, fintech_finder.py and crypto_wallet.py, to automate tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via the Ganache blockchain.
